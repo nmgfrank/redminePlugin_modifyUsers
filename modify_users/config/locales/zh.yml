@@ -1,0 +1,4 @@
+# English strings go here for Rails i18n
+zh:
+  label_multi_user_search: "多用户搜索"
+  label_normal_user_search: "普通模式"
